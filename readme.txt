@@ -10,4 +10,4 @@ Git tracks changes of files.
 Modify two.
 
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
